@@ -43,9 +43,8 @@ namespace SummNumber
                     count++;
                     if (count < j) Console.Write(  i + " + " );                    
                     if (count == j)Console.Write(i + " = " + rezult);
-                }
+                }           
                 
-                //Console.WriteLine("Сумма до числа "+ j + " = " + (j + x), x = j + x);
 
             }
 

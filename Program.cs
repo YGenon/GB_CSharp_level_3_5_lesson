@@ -11,7 +11,7 @@ namespace Factorial
     class Program
     {   
         private static object lockObject = new object();
-        //static int number = 0;
+        
         static long x = 1;
         static long j = 0;
 
